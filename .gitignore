@@ -172,8 +172,8 @@ cython_debug/
 .pypirc
 
 # Data folder
-nyc_taxi_data
 spark/data/
+datatalksclub-zoomcamp-2026/01-Containerization-and-IaC/data/
 
 # Terraform
 .terraform
